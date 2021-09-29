@@ -3,6 +3,9 @@
 - Visual Studio Code ou Terminal
 - Python
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Executar o projeto
 No path `\socket-tcp-udp` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
 >python nomedoarquivo.py
