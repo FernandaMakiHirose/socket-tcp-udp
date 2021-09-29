@@ -3,7 +3,7 @@ import sys
 
 def main():
     try:
-        connection = socket.socket(socket.AF_INET, socket.SOCK_STREAM, 0)
+        conexão = socket.socket(socket.AF_INET, socket.SOCK_STREAM, 0)
 
     except socket.error as erro:
         print('A conexão falhou!')
@@ -16,9 +16,9 @@ def main():
     target_door = input('Digite a porta a ser conectada: ')
 
     try:
-        connection.connect((target_host, int(target_door)))
+        conexão.connect((target_host, int(target_door)))
         print(f'Cliente TCP conectado com sucesso no host {target_host}')
-        connection.shutdown(2)
+        conexão.shutdown(2)
 
     except socket.error as erro:
 
