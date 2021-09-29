@@ -1,4 +1,12 @@
 # Introdução a Socket e cliente TCP/UDP e Server
+## Requisitos
+- Visual Studio Code ou Terminal
+- Python
+
+## Executar o projeto
+No path `\socket-tcp-udp` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
+>python nomedoarquivo.py
+
 ## Biblioteca Socket
 - Esta biblioteca fornece acesso de baixo nível à interface de rede
 - O S.O fornece a API socket que relaciona o programa com a rede
