@@ -1,4 +1,4 @@
-# Introdução a Socket e cliente TCP/UDP e Server
+# Introdução a Socket, cliente TCP/UDP e Server
 ## Requisitos
 - Visual Studio Code ou Terminal
 - Python
