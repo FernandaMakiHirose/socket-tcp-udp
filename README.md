@@ -1,7 +1,7 @@
 # Introdução a Socket, cliente TCP/UDP e Server
 ## Requisitos
-- Visual Studio Code ou Terminal
 - Python
+- Pycharm ou Terminal
 
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
